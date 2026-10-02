@@ -166,7 +166,7 @@
 ![screenshot](https://hediet-screenshots.azurewebsites.net/images/755ab63f991baa7ceb71e029a5a141e62b5e671ae0f31a23b8e2b02c7debbe42)
 
 #### sessions/sessionsList/SessionsList_CompactNestedChatActions/Light
-![screenshot](https://hediet-screenshots.azurewebsites.net/images/885bf41a816baf3853f177205f4dd8c40228a3f65b2cbfa7c76e494d8f4ef957)
+![screenshot](https://hediet-screenshots.azurewebsites.net/images/74b1f4002d93e9f78b5c9f30e2f876d7bb2347107cfedee516029a89e8957683)
 
 #### sessions/sessionsList/SessionsList_CompactNestedChatApprovals/Light
 ![screenshot](https://hediet-screenshots.azurewebsites.net/images/7b250c7f38c05f8bb820f8617ff7fdd39c209002aa2d6af41ab8644e809f43e6)
